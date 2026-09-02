@@ -1,0 +1,6 @@
+{
+  "name": "VoTP - TOTP Authenticator",
+  "description": "Secure TOTP Authenticator for Windows & Server Editions with Google Authenticator migration, anti-keylogger PIN, OneDrive/Gdrive cloud backup, and AES-256-GCM vault security. Powered by Autoenginiea Private Limited.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
